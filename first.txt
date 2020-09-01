@@ -2,3 +2,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 Git‚Ö’Ç‰Á‚µ‚Ü‚·B
 •ÏX‚µ‚½‚æ
 git status
+git diff
